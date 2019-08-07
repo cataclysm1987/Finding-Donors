@@ -1,5 +1,5 @@
 
-# Supervised Learning
+# Supervised Learning - Project Submission for Eric Conklin on Udacity.com
 ## Project: Finding Donors for CharityML
 
 ### Install
